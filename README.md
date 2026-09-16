@@ -1,18 +1,10 @@
-# 📊 Interactive Excel Dashboard Portfolio
+# Interactive Excel Dashboard Portfolio
 
 Dokumentasi portofolio dashboard interaktif berbasis **Microsoft Excel** yang mencakup 3 studi kasus analitika bisnis: penjualan ritel supermarket, pemantauan penjualan otomotif, dan analitika risiko retensi karyawan (HR Analytics). Seluruh visualisasi, analisis data, dan arsitektur dashboard dirangkum dalam dokumen PDF terlampir.
 
 ---
 
-## 📥 Unduh / Buka Dokumen PDF
-
-Dokumen lengkap portofolio dapat diakses dan diunduh langsung melalui tautan berikut:
-
-👉 **[Lihat / Unduh: Project Dashboard Microsoft Excel.pdf](Project%20Dashboard%20Microsoft%20Excel.pdf)**
-
----
-
-## 📑 Ringkasan Studi Kasus dalam Dokumen
+## Ringkasan Studi Kasus dalam Dokumen
 
 ### 1. Case Study 1: Supermarket Sales Dashboard
 * **Sumber Dataset:** [Kaggle - Supermarket Sales Cleaned Dataset](https://www.kaggle.com/datasets/muhdaniyal/supermarket-sales-cleaned-dataset)
